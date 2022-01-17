@@ -1,2 +1,5 @@
-# Landing_Page
-The Odin Project Landing page project.
+# Cover-Page
+
+The Odin Project Cover Page task.
+
+Cover page created from scratch.
